@@ -16,15 +16,15 @@ In this project i learn how and when to use (Date.now).
 -  **JAVASCRIPT**
 
 
-##  hOW TO RUN 
+##  hOW TO RUN 🎬
 -----------------------------------
-## SCREENSHOT
+## SCREENSHOT 🖼️
 
 - [Click here for screenshot](SS.png)
 
 -----------------------------------
 
-##LIVE DEMO
+##LIVE DEMO 🌐
 
 [Click here FOR live demo](https://amnaakhtar1213.github.io/stop-watch-program/)
 
